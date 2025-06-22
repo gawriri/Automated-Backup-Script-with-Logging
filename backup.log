@@ -1,0 +1,3 @@
+2025-06-21 15:57:50,155 - INFO - Backed up: data\backup_script.py as backup_script.py
+2025-06-21 15:57:50,156 - INFO - Backed up: data\test.txt as test.txt
+2025-06-21 15:57:50,156 - INFO - Backup created: backup_20250621_155750.zip (0.00 MB)
